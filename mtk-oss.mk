@@ -6,9 +6,15 @@
 
 # hardware
 PRODUCT_PACKAGES += \
+    fstb.cfg \
     libpowerhal \
+    power.mt6785 \
+    power.default \
+    powerscntbl.xml \
     libmtkperf_client \
+    powercontable.xml \
     libpowerhalwrap_vendor \
+    power_whitelist_cfg.xml \
     power_legacy_test_v_1_0 \
     power_native_test_v_1_0 \
     libmtkperf_client_vendor \
