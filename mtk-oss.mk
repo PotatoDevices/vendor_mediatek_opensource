@@ -7,6 +7,10 @@
 # hardware
 PRODUCT_PACKAGES += \
     libpowerhal \
+    libmtkperf_client \
+    libpowerhalwrap_vendor \
+    libmtkperf_client_vendor \
+    libaudioprimarydevicehalifclient \
     vendor.mediatek.hardware.power@2.1-impl \
     android.hardware.power@1.3-impl-mediatek \
     vendor.mediatek.hardware.mtkpower@1.0-service
