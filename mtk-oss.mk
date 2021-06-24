@@ -13,8 +13,8 @@ PRODUCT_PACKAGES += \
     powerscntbl.xml \
     libmtkperf_client \
     powercontable.xml \
+    power_app_cfg.xml \
     libpowerhalwrap_vendor \
-    power_whitelist_cfg.xml \
     power_legacy_test_v_1_0 \
     power_native_test_v_1_0 \
     libmtkperf_client_vendor \
